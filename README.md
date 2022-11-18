@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bhanu Prakash Dixit
-- 👀 I’m learning Solidity programming language
+- 👀 It's been a year learning Solidity programming language 
 - 🌱 I’m currently persuing B.Tech. in IT[Final Year]
 - 💞️ I’m working on my skills in Blockchain Development
 - 📫 To reach me ;
